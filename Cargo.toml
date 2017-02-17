@@ -1,0 +1,7 @@
+[package]
+name = "rust_linalgs_bench"
+version = "0.1.0"
+authors = ["jek <me@jek.io>, yongqli <yongqli@kerrmetric.com>"]
+
+[dependencies]
+nalgebra = "*"
